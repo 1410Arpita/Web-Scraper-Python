@@ -3,6 +3,10 @@ pip install -r requirements.txt
 2. Run the web scraping script:
 python scrape.py
 
+This is a basic example that scrapes all the links from a webpage. You'll need to replace 'https://example.com' with the actual URL you want to scrape and adjust the scraping logic based on the structure of the website and the specific data you want to extract.
+Remember to create a requirements.txt file if you're planning to use this repository in different environments. You can generate it by running pip freeze > requirements.txt after installing the necessary dependencies.
+Once you have these files ready, you can create a GitHub repository, upload these files, and follow the steps outlined in the README to run the script and modify it as needed for your scraping tasks.
+
 #Description
 The scrape.py script demonstrates basic web scraping using BeautifulSoup and Requests libraries. It fetches data from a sample website and extracts specific information.
 
