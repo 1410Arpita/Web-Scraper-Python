@@ -13,5 +13,5 @@ This repository contains a Python script for web scraping using the BeautifulSou
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/web-scraping.git
+git clone https://github.com/1410Arpita/Web-Scraper-Python.git
 cd web-scraping
