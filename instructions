@@ -1,0 +1,13 @@
+1. Install the required dependencies:
+pip install -r requirements.txt
+2. Run the web scraping script:
+python scrape.py
+
+#Description
+The scrape.py script demonstrates basic web scraping using BeautifulSoup and Requests libraries. It fetches data from a sample website and extracts specific information.
+
+#Usage
+You can modify the script to scrape different websites by changing the URL and the elements you want to extract.
+
+#Contributing
+Feel free to contribute by adding enhancements, bug fixes, or new features! Create a pull request, and I'll be happy to review it.
